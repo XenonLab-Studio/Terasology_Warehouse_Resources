@@ -1,5 +1,5 @@
-# Terasology Warehouse Resources
-###### Resources for the Terasology project
+# :octocat: Terasology Warehouse Resources :octocat:
+###### Resources for the Terasology project :sunny:
 ------
 <br/>
 
