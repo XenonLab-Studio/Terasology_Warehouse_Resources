@@ -1,4 +1,4 @@
-# Terasology_Resources
+# Terasology Warehouse Resources
 ###### Resources for the Terasology project
 ------
 <br/>
