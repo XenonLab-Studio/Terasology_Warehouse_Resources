@@ -3,25 +3,27 @@
 ------
 <br/>
 
-Voxel 3D models, for the implementation of characters and NPCs in Terasology.
+Voxel 3D models, and textures for the implementation of characters and NPCs in Terasology.
 <br/>
 
 The idea is to make Terasology similar to MC, but with a different aspect, new and innovative features, with strong RPG elements and exploration.
 <br/>
 
-### Objectives achieved:
+### :dart: Objectives achieved:
 <br/>
 
-- [x] Creation of whole NPC models, and divided by categories (heads, bodies, hands, feet).
-- [X] Creation textures for the face of the characters (facial expressions).
-- [X] Creation of objects associated with the various NPC categories (Blacksmith anvil, armor for guards, weapons, various objects)
+- [x] :couple: Creation of whole NPC models, and divided by categories (heads, bodies, hands, feet).
+- [X] :art: Creation textures for the face of the characters (facial expressions).
+- [X] :video_game: Creation of objects associated with the various NPC categories (Blacksmith anvil, armor for guards, weapons, various objects)
+- [ ] :sunrise_over_mountains: New Texture Pack for Terasology vanilla (in process).
 <br/>
 
-### Objectives in process:
+### :dart: Objectives in process:
 <br/>
 
-- [ ] Create documentation of the modeling process, and conversion of models and materials.
-- [ ] Model optimization (number of polygons, vertices and more).
-- [ ] Creation of models for animals.
-- [ ] Creation of the "TeraMobs" module, to test the models in game.
+- [ ] :book: Create documentation of the modeling and conversion process of models and materials.
+- [ ] :book: Create documentation for the process of creating new textures.
+- [ ] :bug: Model optimization (number of polygons, vertices and more).
+- [ ] :pig: Creation of models for animals.
+- [ ] :floppy_disk: Creation of the "TeraMobs" module, to test the models in game.
 <br/>
