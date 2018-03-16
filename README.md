@@ -17,7 +17,7 @@ The idea is to make Terasology similar to MC, but with a different aspect, new a
 
 - [x] :couple: Creation of whole NPC models, and divided by categories (heads, bodies, hands, feet).
 - [X] :pencil2: Creation textures for the face of the characters (facial expressions).
-- [X] :video_game: Creation of objects associated with the various NPC categories (Blacksmith anvil, armor for guards, weapons, various objects)
+- [X] :video_game: Creation of objects associated with the various NPC categories (Blacksmith anvil, armor, helmets, tools, weapons, various objects)
 - [ ] :sunrise_over_mountains: New Texture Pack for Terasology vanilla (in process).
 <br/>
 
