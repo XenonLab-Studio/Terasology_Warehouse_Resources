@@ -28,7 +28,7 @@ The idea is to make Terasology similar to MC, but with a different aspect, new a
 - [ ] :floppy_disk: Creation of the "TeraMobs" module, to test the models in game.
 <br/>
 
-#### The wiki is in progress...
+#### The wiki is being worked...
 <br/>
 
 Licensing
