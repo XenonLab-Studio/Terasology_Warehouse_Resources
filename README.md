@@ -9,6 +9,9 @@ Voxel 3D models, and textures for the implementation of characters and NPCs in T
 The idea is to make Terasology similar to MC, but with a different aspect, new and innovative features, with strong RPG elements and exploration.
 <br/>
 
+**Official site:** http://terasology.org/ <br/>
+**Official Forum:** https://forum.terasology.org/forum/ <br/>
+
 ### :dart: Objectives achieved:
 <br/>
 
