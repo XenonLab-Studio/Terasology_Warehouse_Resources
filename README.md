@@ -1,5 +1,5 @@
 # :octocat: Terasology Warehouse Resources :octocat:
-###### Resources for the Terasology project :sunny:
+###### Resources for the Terasology project :art:
 ------
 <br/>
 
@@ -13,7 +13,7 @@ The idea is to make Terasology similar to MC, but with a different aspect, new a
 <br/>
 
 - [x] :couple: Creation of whole NPC models, and divided by categories (heads, bodies, hands, feet).
-- [X] :art: Creation textures for the face of the characters (facial expressions).
+- [X] :pencil2: Creation textures for the face of the characters (facial expressions).
 - [X] :video_game: Creation of objects associated with the various NPC categories (Blacksmith anvil, armor for guards, weapons, various objects)
 - [ ] :sunrise_over_mountains: New Texture Pack for Terasology vanilla (in process).
 <br/>
@@ -27,3 +27,11 @@ The idea is to make Terasology similar to MC, but with a different aspect, new a
 - [ ] :pig: Creation of models for animals.
 - [ ] :floppy_disk: Creation of the "TeraMobs" module, to test the models in game.
 <br/>
+
+#### The wiki is being worked :construction:
+<br/>
+
+Licensing :copyright:
+---------
+
+See LICENSE.txt
